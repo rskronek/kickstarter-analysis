@@ -27,6 +27,8 @@ From this table below, we can see that even though the number of campaigns were 
 
 ### Analysis of Outcomes Based on Goals
 
+If we keep the dollar amount less than $5000, the chances of it becoming successful are more.
+
 ### Challenges and Difficulties Encountered
 The little bit difficult part, initially, was creating the formulas columns, but it got easier as it was practiced more. 
 
