@@ -1,7 +1,7 @@
 # kickstarter-analysis
 
 # Kickstarting with Excel
-
+![Chart](./Outcomes_vs_goals.png)
 ## Overview of Project
 
 The purpose of this project was to analyze how the different crowdfunding campaigns did based on their launch dates, and on the goals.
