@@ -1,20 +1,20 @@
 # kickstarter-analysis
 
 # Kickstarting with Excel
-![Chart](./Outcomes_vs_goals.png)
+
 ## Overview of Project
 
 The purpose of this project was to analyze how the different crowdfunding campaigns did based on their launch dates, and on the goals.
 
 ### Outcomes Based on Launch Date Chart 
-
+![Chart](./Theatre_Outcomes_vs_Launch.png)
 What particular period of the year was suitable for what campaign – was it successful if it was launched in May or was it successful if it was launched in February.
 
 The excel sheet ‘Theatre Outcomes by Launched Date’ shows exactly this data. In this particular sheet, it is filtered by the main category ‘Theatre’. We can select any category by selecting different filters like food, games, music, etc.
 
 
 ### Outcomes Based on the Goals Chart
-
+![Chart](./Outcomes_vs_goals.png)
 This spreadsheet shows the success/failure of the campaigns based on the goals (dollar amount). Did the campaign work well if the goal was higher than e.g. $5000, or did it fail because the goal was a bit higher?
 
 ## Analysis and Challenges
