@@ -22,9 +22,10 @@ This spreadsheet shows the success/failure of the campaigns based on the goals (
 ### Analysis of Outcomes Based on Launch Date
 
 From the following area highlighted in green we can see that the most successful campaigns were started in mid-year.
+![Chart](./Outcome_launched.png)
 
 From this table below, we can see that even though the number of campaigns were almost same at the beginning and the end of the year, percentage of failed campaigns, were more towards the end of the year.		
-
+![Chart](./outcome_lnch_pct.png)
 ### Analysis of Outcomes Based on Goals
 
 If we keep the dollar amount less than $5000, the chances of it becoming successful are more.
