@@ -4,7 +4,7 @@
 
 ## Overview of Project
 
-    The purpose of this project was to analyze how the different crowdfunding campaigns did based on their launch dates, and on the goals.
+The purpose of this project was to analyze how the different crowdfunding campaigns did based on their launch dates, and on the goals.
 
 ### Outcomes Based on Launch Date Chart 
 
@@ -25,9 +25,9 @@ From the following area highlighted in green we can see that the most successful
 
 From this table below, we can see that even though the number of campaigns were almost same at the beginning and the end of the year, percentage of failed campaigns, were more towards the end of the year.		
 
-	### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals
 
-      ### Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
 The little bit difficult part, initially, was creating the formulas columns, but it got easier as it was practiced more. 
 
 
@@ -41,7 +41,7 @@ The little bit difficult part, initially, was creating the formulas columns, but
 
 
 - What can you conclude about the Outcomes based on Goals?
-    Lower the amount range for the goals, higher the percentage of being it      successful.
+  Lower the amount range for the goals, higher the percentage of being it      successful.
 
 - What are some limitations of this dataset?
 There was so much of data that was kind of not useful, irrelevant. If we can delete/hide those columns, we can focus more on the important data.
