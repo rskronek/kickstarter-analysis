@@ -26,6 +26,7 @@ From the following area highlighted in green we can see that the most successful
 
 From this table below, we can see that even though the number of campaigns were almost same at the beginning and the end of the year, percentage of failed campaigns, were more towards the end of the year.		
 ![Chart](./outcome_lnch_pct.png)
+
 ### Analysis of Outcomes Based on Goals
 
 If we keep the dollar amount less than $5000, the chances of it becoming successful are more.
